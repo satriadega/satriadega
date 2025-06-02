@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+ <img 
+  src="https://satriadega.com/static/media/ega.3ee0c99fba60ecc266d0.png" 
+  width="150" 
+  alt="Satria P Logo"
+  style="border-radius: 50%; overflow: hidden;"
+>
+</p>
 
-<!--
-**satriadega/satriadega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Satria P 👋
 
-Here are some ideas to get you started:
+![Visitor Count](https://komarev.com/ghpvc/?username=satriadega&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a backend-focused developer passionate about clean code, scalable systems, and crafting efficient software solutions.  
+I work mainly with **Java**, **Golang**, **JavaScript**, and **Python**.
+
+I enjoy optimizing code, simplifying complex systems, and learning new tools to sharpen my skills.
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=satriadega&show_icons=true&theme=dark&layout=compact)
