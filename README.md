@@ -1,8 +1,8 @@
 # Hi, I'm Satria P 👋
 
-🚀 A backend-focused developer who loves turning complex problems into simple, elegant solutions.
-💻 Skilled in Java and JavaScript, with a strong focus on clean code and scalable systems.
-⚡ Always exploring new tools and techniques to build faster, smarter, and more reliable applications.
+🚀 A backend-focused developer who loves turning complex problems into simple, elegant solutions. <br />
+💻 Skilled in Java and JavaScript, with a strong focus on clean code and scalable systems. <br />
+⚡ Always exploring new tools and techniques to build faster, smarter, and more reliable applications. <br />
 
 ✨ I enjoy:
 
