@@ -1,7 +1,7 @@
 # Hi, I'm Satria P 👋
 
-I'm a backend-focused developer passionate about clean code, scalable systems, and crafting efficient software solutions.  
-I work mainly with **Java**, **Golang**, **JavaScript**, and **Python**.
+I'm a backend-focused developer passionate about clean code, scalable systems, and crafting efficient software solutions.
+I work mainly with Java and JavaScript.
 
 I enjoy optimizing code, simplifying complex systems, and learning new tools to sharpen my skills.
 
