@@ -13,3 +13,5 @@ Designing systems that scale gracefully
 Learning and experimenting to sharpen my craft
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=satriadega&color=red)
+
+[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)
